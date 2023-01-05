@@ -10,6 +10,7 @@ While many non-profits around the globe all hope to solve the pressing global ma
 We allocate resources to problems that specific non-profit organizations can solve by using statistical analysis and machine learning. We identify relationships between independent and dependent variables based on the statistical significance of the relationship, we run the results of our program through a predetermined database of global non-profit organizations to determine which organizations are best suited to tackle the problem at hand.
 
 ## Challenges we ran into
+
 The biggest challenge we ran into was the lack of data that was available to test our model, as it would have been unintelligent to write this algorithm without test sets of data, though we were eventually able to resolve these conflicts and find an appropriate data set.
 
 Note: To use the regression model:
