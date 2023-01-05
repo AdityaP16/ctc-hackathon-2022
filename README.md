@@ -7,6 +7,7 @@ https://devpost.com/software/aaraa-a-machine-learning-model-for-tomorrow
 While many non-profits around the globe all hope to solve the pressing global matters we face today, the sheer complexity of these problems and the various approaches that can be taken to tackle them, minimize the value of the aid that can be provided. However, if there was a common methodology that we could use to create a meaningful connection between these organizations and the communities that need them the most, the resources we provide to these non-profits could be efficiently and effectively allocated, which would allow us to catalyze these solutions. We found many problems that some non-profit organizations could not solve but others could.
 
 ## What it does
+
 We allocate resources to problems that specific non-profit organizations can solve by using statistical analysis and machine learning. We identify relationships between independent and dependent variables based on the statistical significance of the relationship, we run the results of our program through a predetermined database of global non-profit organizations to determine which organizations are best suited to tackle the problem at hand.
 
 ## Challenges we ran into
